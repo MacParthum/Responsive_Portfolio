@@ -9,7 +9,7 @@
 
 # Project 1 Deployed Link
 
-![Indecisive Cook Project Link](https://macparthum.github.io/Indecisive_Cook/)
+![Indecisive Cook Project Link] https://macparthum.github.io/Indecisive_Cook/
 
 # Image of working site
 
