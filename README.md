@@ -9,5 +9,23 @@ A web responsive bio page made with bootstrap.
 
 ![IndecisiveCook](/assets/indecisive.gif)
 
+# Weather Dashboard Deployed Link
+
+![Weather Dashboard Deployed Link] https://macparthum.github.io/Weather_Dashboard/
+
+# Image of working site
+
+![IndecisiveCook](/assets/weatherDash.png)
+
+# Project 1 Deployed Link
+
+![Day Planner Deployed Link] https://macparthum.github.io/Day_Planner/
+
+# Image of working site
+
+![IndecisiveCook](/assets/workDayPlan.png)
+
+
+
 
 
