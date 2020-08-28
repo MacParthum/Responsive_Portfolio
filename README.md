@@ -1,11 +1,5 @@
 # Responsive_Portfolio
-
-
-
-# Resume
-
-![Resume Link](/assets/Resume.pdf)
-
+A web responsive bio page made with bootstrap.  
 
 # Project 1 Deployed Link
 
