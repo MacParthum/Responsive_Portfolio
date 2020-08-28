@@ -17,7 +17,7 @@ A web responsive bio page made with bootstrap.
 
 ![IndecisiveCook](/assets/weatherDash.png)
 
-# Project 1 Deployed Link
+# Day Planner Deployed Link
 
 ![Day Planner Deployed Link] https://macparthum.github.io/Day_Planner/
 
