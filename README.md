@@ -1,7 +1,7 @@
 # Responsive_Portfolio
 A web responsive bio page made with bootstrap and a lotta love.  This page now includes a completly reworked user interface, background images and even an iframe showing off my imvu products for sale. 
 
-# Project 1 Deployed Link
+# Indecisive Cook (Project 1) Deployed Link
 
 ![Indecisive Cook Project Link] https://macparthum.github.io/Indecisive_Cook/
 
