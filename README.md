@@ -23,7 +23,7 @@ A web responsive bio page made with bootstrap and a lotta love.  This page now i
 
 # Image of working site
 
-![IndecisiveCook](/assets/workDayPlan.png)
+![IndecisiveCook](/assets/workDaySchedule.png)
 
 
 
