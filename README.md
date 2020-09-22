@@ -1,4 +1,4 @@
-# UNC Charlotte Full Stack Web Devloper Class Projects and Assignments
+## UNC Charlotte Full Stack Web Devloper Class Projects and Assignments
 
 ## Indecisive Cook (Project 1) Deployed Link
 
