@@ -7,7 +7,15 @@ A web responsive bio page made with bootstrap and a lotta love.  This page now i
 
 # Image of working site
 
-![IndecisiveCook](/assets/indecisive.gif)
+![Indecisive Cook](/assets/indecisive.gif)
+
+# Greener Grass (Project 2) Deployed Link
+
+![GreenerGrassHeroku]https://project-2-group-5.herokuapp.com/login
+
+# Image of working site
+
+![Greener Grass](/assets/greenGrass.gif)
 
 # Weather Dashboard Deployed Link
 
@@ -15,7 +23,7 @@ A web responsive bio page made with bootstrap and a lotta love.  This page now i
 
 # Image of working site
 
-![IndecisiveCook](/assets/weatherDash.png)
+![Weather Dashboard](/assets/weatherDash.png)
 
 # Day Planner Deployed Link
 
@@ -23,8 +31,7 @@ A web responsive bio page made with bootstrap and a lotta love.  This page now i
 
 # Image of working site
 
-![IndecisiveCook](/assets/workDaySchedule.png)
-
+![Day Planner](/assets/workDaySchedule.png)
 
 
 
